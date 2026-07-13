@@ -11,10 +11,10 @@ Experienced DevOps Engineer with 2+ years of expertise in designing, implementin
 - 🌍 Location: Lahore, Pakistan
 
 
-### PROFESSIONAL EXPERIENCE
+# PROFESSIONAL EXPERIENCE
 
 ## TechCreatix
-# Role: Junior DevOps Engineer
+## Role: Junior DevOps Engineer
 - Architect and deploy Microservices-based fintech applications on AWS ECS Fargate
 - Manage deployment of 25 microservices on ECS Fargate
 - Implement AWS Cloud Map with private namespaces for secure backend service-to-service communication
@@ -26,7 +26,7 @@ Experienced DevOps Engineer with 2+ years of expertise in designing, implementin
 
 
 ## Systems Limited
-# Role: DevOps Engineer
+## Role: DevOps Engineer
 - Built and managed Dockerized React applications on Azure, designed Azure infrastructure (AKS, ACR, Azure SQL) using Terraform (IaC) with remote state management
 - Built and managed Docker images, containers, and volumes for application development and deployment
 - Automated CI/CD pipelines with Azure DevOps for PR validation, Docker image builds, and automated Kubernetes manifest updates via scripting
@@ -34,8 +34,8 @@ Experienced DevOps Engineer with 2+ years of expertise in designing, implementin
 - Implemented GitOps workflows using ArgoCD for continuous synchronization between Git and AKS clusters
 - Monitored performance using Prometheus & Grafana. Secured image storage with ACR and streamlined deployment cycles with release automation
 
-### PROJECTS
-# 1: (MONEREPAY) Fintech Application with Microservices Architecture on AWS ECS Fargate
+# PROJECTS
+## 1: (MONEREPAY) Fintech Application with Microservices Architecture on AWS ECS Fargate
 - Provisioned complete AWS infrastructure using Terraform (IaC) for a microservice-based fintech application
 - Deployed 22 backend microservices and 2 frontend services on AWS ECS Fargate for serverless container orchestration
 - Attached Application Load Balancer (ALB) exclusively to frontend services for traffic management
@@ -44,7 +44,7 @@ Experienced DevOps Engineer with 2+ years of expertise in designing, implementin
 - Deployed managed Kafka cluster for real-time event streaming and inter-service communication
 - Built end-to-end Jenkins CI/CD pipelines automating build, test, and deployment processes to ECS Fargate
 
-# 2:  (VELOTECH) Two-Tier Microservice Architecture on AWS ECS Fargate
+## 2:  (VELOTECH) Two-Tier Microservice Architecture on AWS ECS Fargate
 - Designed the complete AWS infrastructure using Terraform (IaC) for a lightweight two-tier microservice application
 - Deployed 1 backend micro service and 1 frontend service on AWS ECS Fargate for serverless container orchestration
 - Configured AWS Cloud Map with private namespaces enabling secure backend-to-frontend service communication without public exposure
@@ -52,7 +52,7 @@ Experienced DevOps Engineer with 2+ years of expertise in designing, implementin
 - Set up GitHub Actions CI/CD pipelines automating build, test, and deployment processes to ECS Fargate
 - Managed application source code and infrastructure configuration in GitHub repositories with branch-based deployment strategies
 
-# 3:   Healthcare Application Deployment on Azure Kubernetes Service (AKS)
+## 3:   Healthcare Application Deployment on Azure Kubernetes Service (AKS)
 - Automated infrastructure provisioning using Terraform, deploying Azure Kubernetes Service (AKS), Azure Container Registry (ACR), and Azure SQL Server for backend data storage.
 - Set up Azure DevOps CI pipeline to build Docker images. Push images securely to ACR.
 - Implemented Azure DevOps CD pipeline to deploy the application on AKS.
@@ -60,7 +60,7 @@ Experienced DevOps Engineer with 2+ years of expertise in designing, implementin
 - Implemented GitOps release automation with ArgoCD, enabling continuous synchronization between Git manifests and ACS clusters.
 - Integrated release automation to streamline deployments, reducing manual intervention and ensuring faster delivery cycles.
 
-# 4:  Cloud-Native Dockerized Application Deployment
+## 4:  Cloud-Native Dockerized Application Deployment
 - Provisioned infrastructure on Microsoft Azure using Terraform, implementing Infrastructure as Code (IaC) for scalable and repeatable deployments.
 - Dockerized the React application by writing a custom Dockerfile, containerizing the application for consistent runtime environments.
 - Configure Azure DevOps CI/CD pipelines by setting up one pipeline to run automatically on pull requests to check if Docker images were built successfully, and another pipeline to build and push Docker images.
@@ -68,7 +68,7 @@ Experienced DevOps Engineer with 2+ years of expertise in designing, implementin
 - Deployed workloads on Azure Kubernetes Service (AKS) using Helm charts to manage Kubernetes resources.
 - Configured monitoring using Prometheus and Grafana.
 
-### SKILLS
+# SKILLS
 
 Cloud Platforms: AWS | AZURE
 
@@ -78,11 +78,11 @@ Cloud Platforms: AWS | AZURE
 **Monitoring:** Prometheus & Grafana, Azure Monitor & insights, AWS Cloud Watch
 
 
-### EDUCATION
+# EDUCATION
 B.S. COMPUTER SCIENCE | UNIVERSITY OF CENTRAL PUNJAB, LAHORE PAKISTAN
 
 
-### COURSES
+# COURSES
 **Azure ( AZ 900 )** | Udemy
 **AWS Solution Architect** | Adrian Cantrill 
 **Terraform (Associate)** | HashiCorp Certified 
@@ -90,5 +90,5 @@ B.S. COMPUTER SCIENCE | UNIVERSITY OF CENTRAL PUNJAB, LAHORE PAKISTAN
 **Cyber-security (Cyber Ethical Hacking)** | CORVIT SYSTEMS, LAHORE PAKISTAN
 
 
-## ADDITIONAL
+# ADDITIONAL
 **INTERESTS:** Football, Traveling and exploring new cultures, Fitness and outdoor activities
