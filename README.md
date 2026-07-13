@@ -1,4 +1,3 @@
-# Profile-Details
 # Abdul Moiz - DevOps Engineer 
 
 ## About Me
