@@ -1,8 +1,6 @@
 # Profile-Details
 # Abdul Moiz - DevOps Engineer 
 
-![Profile Picture](profile_picture.jpg)
-
 ## About Me
 Experienced DevOps Engineer with 2+ years of expertise in designing, implementing, and managing enterprise-grade cloud and DevOps solutions on AWS and Azure. Specializes in modernizing complex, multi-service architectures, demonstrated by leading the complete Terraform-based infrastructure provisioning for a 24-service fintech microservices platform on AWS ECS Fargate. Proven ability to build secure, scalable environments, including implementing private service discovery (AWS Cloud Map) and orchestrating event-driven data streaming with managed Kafka. Adept at bridging development and operations through robust automation, having built end-to-end Jenkins CI/CD pipelines and implemented GitOps workflows with ArgoCD for Azure Kubernetes Service (AKS) deployments. Skilled in driving operational efficiency through containerization (Docker, Kubernetes), infrastructure-as-code, and release automation, ensuring high availability and accelerated delivery cycles for cloud-native applications.
 
