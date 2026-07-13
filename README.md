@@ -70,11 +70,11 @@ Experienced DevOps Engineer with 2+ years of expertise in designing, implementin
 
 # SKILLS
 
-Cloud Platforms: AWS | AZURE
-IAC & Automation: Terraform, Cloud Formation, Helm, Helm Charts
-Container Orchestration: Docker, Kuberntes (EKS,AKS), ECS Fargate
-CI/CD & GitOps: Jenkinss, GitHub Actions, Azure DevOps, ArgoCD
-Monitoring: Prometheus & Grafana, Azure Monitor & insights, AWS Cloud Watch
+- Cloud Platforms: AWS | AZURE
+- IAC & Automation: Terraform, Cloud Formation, Helm, Helm Charts
+- Container Orchestration: Docker, Kuberntes (EKS,AKS), ECS Fargate
+- CI/CD & GitOps: Jenkinss, GitHub Actions, Azure DevOps, ArgoCD
+- Monitoring: Prometheus & Grafana, Azure Monitor & insights, AWS Cloud Watch
 
 
 # EDUCATION
@@ -82,11 +82,11 @@ B.S. COMPUTER SCIENCE | UNIVERSITY OF CENTRAL PUNJAB, LAHORE PAKISTAN
 
 
 # COURSES
-Azure ( AZ 900 ) | Udemy
-AWS Solution Architect | Adrian Cantrill 
-Terraform (Associate) | HashiCorp Certified 
-Kubernetes (CKA) | Udemy
-Cyber-security (Cyber Ethical Hacking) | CORVIT SYSTEMS, LAHORE PAKISTAN
+- Azure ( AZ 900 ) | Udemy
+- AWS Solution Architect | Adrian Cantrill 
+- Terraform (Associate) | HashiCorp Certified 
+- Kubernetes (CKA) | Udemy
+- Cyber-security (Cyber Ethical Hacking) | CORVIT SYSTEMS, LAHORE PAKISTAN
 
 
 # ADDITIONAL
